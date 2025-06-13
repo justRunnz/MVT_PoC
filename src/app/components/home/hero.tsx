@@ -87,7 +87,6 @@ export const Hero: React.FC = () => {
                     alt="hero-image"
                     width={518}
                     height={575}
-                    style={{ width: "100%", height: "100%" }}
                     loading="lazy"
                 />
             </Box>
