@@ -51,7 +51,6 @@ export const GetStarted: React.FC = () => {
                     fontSize={{ xs: "30px", md: "55px" }}
                     fontWeight={700}
                     color="white"
-                    fontFamily="Plus Jakarta Sans"
                 >
                     {t("home_get_started_title", lang)}
                 </Typography>

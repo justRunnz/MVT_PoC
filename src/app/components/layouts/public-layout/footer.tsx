@@ -125,7 +125,6 @@ export const Footer: React.FC = () => {
                     fontSize={{ xs: "30px", md: "55px" }}
                     fontWeight={700}
                     color="white"
-                    fontFamily="Plus Jakarta Sans"
                 >
                     TakeCareAI
                 </Typography>
@@ -133,7 +132,6 @@ export const Footer: React.FC = () => {
                     fontSize={{ xs: "21px", md: "39px" }}
                     fontWeight={700}
                     color="white"
-                    fontFamily="Plus Jakarta Sans"
                 >
                     {t("footer_text", lang)}
                 </Typography>

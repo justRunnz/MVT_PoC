@@ -39,7 +39,6 @@ export const HealthDatas: React.FC = () => {
                     fontSize={{ xs: "20px", md: "40px" }}
                     fontWeight={700}
                     color="rgba(54, 112, 155, 1)"
-                    fontFamily="Plus Jakarta Sans"
                     sx={{ lineHeight: "1" }}
                 >
                     {t("home_training_title", lang)}
