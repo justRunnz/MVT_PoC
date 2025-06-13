@@ -3,7 +3,7 @@ import "./style.css";
 import { I18NProvider } from "@/core/i18n/i18n-provider";
 import { EnvProvider } from "@/core/providers/env-provider";
 import { SpeedInsights } from "@vercel/speed-insights/next";
-import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics/next";
 import PerformanceMonitor from "@/app/components/PerformanceMonitor";
 
 export const metadata: Metadata = {
