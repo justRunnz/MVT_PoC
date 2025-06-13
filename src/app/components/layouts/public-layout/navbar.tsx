@@ -47,7 +47,7 @@ export const Navbar: React.FC<{
                             }}
                         >
                             <Image
-                                src="/images/logo.png"
+                                src="/images/logo.webp"
                                 alt="logo"
                                 width={83}
                                 height={64}

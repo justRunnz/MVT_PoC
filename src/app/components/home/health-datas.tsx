@@ -17,7 +17,7 @@ export const HealthDatas: React.FC = () => {
         >
             <Box width="90%" height="auto" margin="auto">
                 <Image
-                    src="/images/health-datas.png"
+                    src="/images/health-datas.webp"
                     alt="health-datas-image"
                     width={645}
                     height={523}

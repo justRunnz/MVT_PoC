@@ -19,14 +19,14 @@ export const GetStarted: React.FC = () => {
             margin="auto"
             sx={{
                 background:
-                    'url("/images/get-started-bg.png") center no-repeat',
+                    'url("/images/get-started-bg.webp") center no-repeat',
                 backgroundSize: "cover",
                 borderRadius: { xs: "0", md: "30px" },
             }}
         >
             <Box display={{ xs: "none", md: "block" }}>
                 <Image
-                    src="/images/get-started.png"
+                    src="/images/get-started.webp"
                     alt="hero-image"
                     width={500}
                     height={500}

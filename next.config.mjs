@@ -13,7 +13,7 @@ const nextConfig = {
     compress: true, // Enables Gzip compression to reduce transfer size
     poweredByHeader: false, // Removes Next.js header to reduce metadata bloat
     images: {
-        // formats: ['image/avif', 'image/webp', 'image/png', ], // Use modern image formats
+        formats: ["image/webp"], // Use modern image formats
         minimumCacheTTL: 60, // Encourage caching
     },
 

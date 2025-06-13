@@ -69,7 +69,7 @@ export const HereForYou: React.FC = () => {
 
             <Box width="90%" height="auto" margin="auto">
                 <Image
-                    src="/images/here-for-you.png"
+                    src="/images/here-for-you.webp"
                     alt="here-for-you-image"
                     width={645}
                     height={463}

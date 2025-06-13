@@ -63,7 +63,7 @@ export const FeelView: React.FC = () => {
                 display={{ xs: "none", md: "block" }}
             >
                 <Image
-                    src="/images/feel.png"
+                    src="/images/feel.webp"
                     alt="feel-image"
                     width={645}
                     height={523}

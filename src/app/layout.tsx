@@ -10,13 +10,13 @@ export const metadata: Metadata = {
     title: "TakeCareAI",
     description:
         "Meet Andrew, the first AI medical doctor, and browse the whole app to take care of your physical and mental health.",
-    icons: { icon: "/icon.png" },
+    icons: { icon: "/icon.webp" },
     openGraph: {
         title: "TakeCareAI",
         description:
             "Meet Andrew, the first AI medical doctor, and browse the whole app to take care of your physical and mental health.",
         type: "website",
-        images: "/preview-image.png",
+        images: "/preview-image.webp",
     },
 };
 

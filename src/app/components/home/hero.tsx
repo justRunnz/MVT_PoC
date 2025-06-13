@@ -82,7 +82,7 @@ export const Hero: React.FC = () => {
                 margin="auto"
             >
                 <Image
-                    src="/images/hero-phone.png"
+                    src="/images/hero-phone.webp"
                     alt="hero-image"
                     width={518}
                     height={575}

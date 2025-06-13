@@ -18,7 +18,7 @@ export const Step1: React.FC = () => {
         >
             <Box width={{ xs: "90%", md: "100%" }} margin="auto">
                 <Image
-                    src="/images/step1.png"
+                    src="/images/step1.webp"
                     alt="health-datas-image"
                     width={645}
                     height={588}

@@ -47,22 +47,22 @@ export const Footer: React.FC = () => {
             links: [
                 {
                     title: "Instagram",
-                    icon: "/images/icons/instagram.png",
+                    icon: "/images/icons/instagram.webp",
                     url: "https://www.instagram.com",
                 },
                 {
                     title: "Facebook",
-                    icon: "/images/icons/facebook.png",
+                    icon: "/images/icons/facebook.webp",
                     url: "https://www.facebook.com",
                 },
                 {
                     title: "LinkedIn",
-                    icon: "/images/icons/linkedin.png",
+                    icon: "/images/icons/linkedin.webp",
                     url: "https://www.linkedin.com",
                 },
                 {
                     title: "Contact Us",
-                    icon: "/images/icons/contact.png",
+                    icon: "/images/icons/contact.webp",
                     url: `mailto:${contactEmail}`,
                 },
             ],
@@ -72,12 +72,12 @@ export const Footer: React.FC = () => {
             links: [
                 {
                     title: "App Store",
-                    icon: "/images/icons/app-store.png",
+                    icon: "/images/icons/app-store.webp",
                     url: "https://www.apple.com/ios/app-store/",
                 },
                 {
                     title: "Google Play",
-                    icon: "/images/icons/google-play.png",
+                    icon: "/images/icons/google-play.webp",
                     url: "https://play.google.com/store",
                 },
             ],
@@ -92,7 +92,7 @@ export const Footer: React.FC = () => {
             display="grid"
             gridTemplateColumns={{ xs: "1fr", md: "auto 1fr" }}
             sx={{
-                background: "url('/images/footer-bg.png') center no-repeat",
+                background: "url('/images/footer-bg.webp') center no-repeat",
                 backgroundSize: "cover",
             }}
         >
@@ -103,7 +103,7 @@ export const Footer: React.FC = () => {
                 width="auto"
             >
                 <Image
-                    src="/images/footer.png"
+                    src="/images/footer.webp"
                     alt="footer"
                     width={100}
                     height={100}
