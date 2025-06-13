@@ -49,8 +49,8 @@ export const Navbar: React.FC<{
                             <Image
                                 src="/images/logo.png"
                                 alt="logo"
-                                width={75}
-                                height={46}
+                                width={83}
+                                height={64}
                                 loading="lazy"
                             />
                             <Typography

@@ -85,8 +85,8 @@ export const Hero: React.FC = () => {
                 <Image
                     src="/images/hero-phone.png"
                     alt="hero-image"
-                    width={500}
-                    height={500}
+                    width={518}
+                    height={575}
                     style={{ width: "100%", height: "100%" }}
                     loading="lazy"
                 />
