@@ -30,10 +30,10 @@ export default function RootLayout({
             <body>
                 <EnvProvider config={JSON.stringify(process.env)}>
                     <I18NProvider>{children}</I18NProvider>
-                    <PerformanceMonitor />
-                    <SpeedInsights />
-                    <Analytics />
                 </EnvProvider>
+                <PerformanceMonitor />
+                <SpeedInsights />
+                <Analytics />
             </body>
         </html>
     );
